@@ -1,2 +1,2 @@
-print "Hello World!"
-print "I'm figuring out git"
+a = raw_input("What's your name? ")
+print "Hello", a + "!"
